@@ -5,7 +5,7 @@ local args = {
         [1] = {
             [1] = "\226\129\130f",
             [2] = "GoldenGladiatorCrate",
-            [3] = "Buy1",
+            [3] = "Buy3",
             [4] = idsend
         }
     }
