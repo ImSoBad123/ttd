@@ -1,5 +1,5 @@
-local id1 = 7614034146
-local id2 = 7614058466
+local id1 = 7613700980
+local id2 = 7613669410
 local randomId = math.random(1, 2) == 1 and id1 or id2
 
 while wait(2) do
